@@ -1,0 +1,12 @@
+/*我是less*/
+.abc {
+  width: 100px;
+  height: 200px;
+  background-color: #ff0000;
+}
+.abc ul {
+  height: 200px;
+}
+.abc ul li {
+  color: #0000ff;
+}
